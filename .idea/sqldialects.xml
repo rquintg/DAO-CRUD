@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/Dao/EstadoCivilImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/Dao/FuncionarioImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/Dao/TipoIdentificacionImpl.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/MySql/Population.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/MySql/Script.sql" dialect="MySQL" />
+  </component>
+</project>
